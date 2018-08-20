@@ -6,9 +6,12 @@ Data release supporting [arXiv:1602.06952](https://arxiv.org/abs/arXiv:1602.0695
 #### Numerical simulations of stellar collapse in scalar-tensor theories of gravity
 We present numerical-relativity simulations of spherically symmetric core collapse and compact-object formation in scalar-tensor theories of gravity. The additional scalar degree of freedom introduces a propagating monopole gravitational-wave mode. Detection of monopole scalar waves with current and future gravitational-wave experiments may constitute smoking gun evidence for strong-field modifications of General Relativity. We collapse both polytropic and more realistic pre-supernova profiles using a high-resolution shock-capturing scheme and an approximate prescription for the nuclear equation of state. The most promising sources of scalar radiation are protoneutron stars collapsing to black holes. In case of a Galactic core collapse event forming a black hole, Advanced LIGO may be able to place independent constraints on the parameters of the theory at a level comparable to current Solar-System and binary-pulsar measurements. In the region of the parameter space admitting spontaneously scalarised stars, transition to configurations with prominent scalar hair before black-hole formation further enhances the emitted signal. Although a more realistic treatment of the microphysics is necessary to fully investigate the occurrence of spontaneous scalarisation of neutron star remnants, we speculate that formation of such objects could constrain the parameters of the theory beyond the current bounds obtained with Solar-System and binary-pulsar experiments.
 
+### Credit
+
+You are more than welcome to use these waveforms in your research; we kindly ask you to cite our paper above. If you want to cite the database specifically, it's DOI.
+
 
 ### Waveforms in scalar-tensor theories
-
 
 We provide data files of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3,5.4 and 5.5 are provided.
 
