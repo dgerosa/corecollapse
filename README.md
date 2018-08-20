@@ -14,7 +14,7 @@ This material is also available on Christian Ott’s webpage [stellarcollapse.or
 
 ### Waveforms in scalar-tensor theories
 
-We provide data files of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3,5.4 and 5.5 are provided.
+We provide data files of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3, 5.4 and 5.5 are provided.
 
 Files are named according to the following convention:
 
