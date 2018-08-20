@@ -31,12 +31,12 @@ Files have two columns:
 - `time | h(t)` for time-domain waveforms;
 - `frequency | sqrt(S(f))` for frequency-domain waveforms.
 
-Definitions and conventions for `h(t)` and `sqrt(S(f))` are given in the paper. All numerical setups are specified in Sec.4 of our paper: in particular, signals are extracted at r_ext = 3e9cm and computed for an optimally oriented source placed at D=10kpc from the detector. The time-domain waveforms provided are raw data and include the initial unphysical transient due to the initialization of the scalar field. Frequency-domain waveforms have been computed selecting a time window t-r_ext=[0.006,0.6] as specified in Sec.4.
+Definitions and conventions for `h(t)` and `sqrt(S(f))` are given in the paper. All numerical setups are specified in Sec.4 of our paper: in particular, signals are extracted at r_ext = 3e9cm and computed for an optimally oriented source placed at D=10kpc from the detector. The time-domain waveforms provided are raw data and include the initial unphysical transient due to the initialization of the scalar field. Frequency-domain waveforms have been computed by selecting a time window t-r_ext=[0.006,0.6] as specified in Sec.4.
 
 
 ### Animations
 
-We also provide aninmated versions of Fig. 5.1 (files `evolution*`). Here is a [YouTube playlist](https://www.youtube.com/playlist?list=PLVjP4QK1oHulxnqt4lgREQo9tNeeit-TX)  with all animations. [Files](https://github.com/dgerosa/corecollapse/tree/master/animations) are available as well.
+We also provide animated versions of Fig. 5.1 (files `evolution*`). Here is a [YouTube playlist](https://www.youtube.com/playlist?list=PLVjP4QK1oHulxnqt4lgREQo9tNeeit-TX)  with all animations. [Files](https://github.com/dgerosa/corecollapse/tree/master/animations) are available as well.
 
 
 
