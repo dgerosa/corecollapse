@@ -10,6 +10,7 @@ We present numerical-relativity simulations of spherically symmetric core collap
 
 You are more than welcome to use these waveforms in your research; we kindly ask you to cite our paper above. If you want to cite the database specifically, it's DOI.
 
+This material is also available on Christian Ott’s webpage [stellarcollapse.org](http://stellarcollapse.org/gerosaetal2016), together with more resources on stellar collapse.
 
 ### Waveforms in scalar-tensor theories
 
