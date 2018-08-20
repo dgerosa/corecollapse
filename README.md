@@ -14,7 +14,7 @@ This material is also available on Christian Ott’s webpage [stellarcollapse.or
 
 ### Waveforms in scalar-tensor theories
 
-We provide [data files](https://github.com/dgerosa/corecollapse) of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3, 5.4 and 5.5 are provided.
+We provide [data files](https://github.com/dgerosa/corecollapse/tree/master/waveforms) of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3, 5.4 and 5.5 are provided.
 
 Files are named according to the following convention:
 
@@ -36,7 +36,7 @@ Definitions and conventions for `h(t)` and `sqrt(S(f))` are given in the paper. 
 
 ### Animations
 
-We also provide aninmated versions of Fig. 5.1 (files `evolution*`). Here is a [YouTube playlist](https://www.youtube.com/playlist?list=PLVjP4QK1oHulxnqt4lgREQo9tNeeit-TX)  with all animations. [Files](https://github.com/dgerosa/corecollapse) are available as weel 
+We also provide aninmated versions of Fig. 5.1 (files `evolution*`). Here is a [YouTube playlist](https://www.youtube.com/playlist?list=PLVjP4QK1oHulxnqt4lgREQo9tNeeit-TX)  with all animations. [Files](https://github.com/dgerosa/corecollapse/tree/master/animations) are available as well.
 
 
 
