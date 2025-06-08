@@ -10,8 +10,6 @@ We present numerical-relativity simulations of spherically symmetric core collap
 
 You are more than welcome to use these waveforms in your research; we kindly ask you to cite our paper above. If you want to cite the database specifically, it's [![DOI](https://zenodo.org/badge/145436741.svg)](https://zenodo.org/badge/latestdoi/145436741).
 
-This material is also available on Christian Ott’s webpage [stellarcollapse.org](http://stellarcollapse.org/gerosaetal2016), together with more resources on stellar collapse.
-
 ### Waveforms in scalar-tensor theories
 
 We provide [data files](https://github.com/dgerosa/corecollapse/tree/master/waveforms) of the gravitational-wave waveforms presented in our paper. In particular, time-domain and frequency-domain waveforms of all runs entering Figs. 5.3, 5.4 and 5.5 are provided.
